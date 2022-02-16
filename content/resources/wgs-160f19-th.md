@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-160j-science-activism-gender-race-and-power-fall-2019/9c15301062d8a2f1a63785a2e300aa8b_WGS-160f19-th.jpg
+file: /media/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/9c15301062d8a2f1a63785a2e300aa8b_WGS-160f19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "A bronze bust of Rachel Carson. Carson\u2019s book _Silent Spring_ alerted\
@@ -10,6 +10,8 @@ image_metadata:
     \ on Flickr. License CC BY-NC-SA.)"
   credit: Image courtesy of jfholloway on Flickr. License CC BY-NC-SA.
   image-alt: ' A bronze bust of a woman with strong features and wavy hair.'
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: WGS-160f19-th.jpg
 uid: 9c153010-62d8-a2f1-a637-85a2e300aa8b

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-160j-science-activism-gender-race-and-power-fall-2019/e9fc6485e240743aedc9b6ddcf3f91ec_MITWGS_160F19_Wk8ReadingGuide.pdf
+file: /media/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/e9fc6485e240743aedc9b6ddcf3f91ec_MITWGS_160F19_Wk8ReadingGuide.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Videos
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides:, Week 8: The March 4 Movement'
 uid: e9fc6485-e240-743a-edc9-b6ddcf3f91ec

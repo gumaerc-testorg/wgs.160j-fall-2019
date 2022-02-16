@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-160j-science-activism-gender-race-and-power-fall-2019/e9e69449ec1670ae0875c244e87e81a1_MITWGS_160F19_Wk11ReadingGuide.pdf
+file: /media/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/e9e69449ec1670ae0875c244e87e81a1_MITWGS_160F19_Wk11ReadingGuide.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Videos
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides, Week 11: Intersectional Feminism'
 uid: e9e69449-ec16-70ae-0875-c244e87e81a1

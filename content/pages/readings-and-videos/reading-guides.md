@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Readings and Videos
+parent_type: CourseSection
 parent_uid: 015aad82-9b9e-b841-1611-4513152b434e
 title: Reading Guides
 uid: 4acaa65f-ba88-5cb7-af16-debc9e4ad604

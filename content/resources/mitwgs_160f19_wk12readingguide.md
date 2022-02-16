@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-160j-science-activism-gender-race-and-power-fall-2019/1aa21aa46c99884d404632c43c30fce5_MITWGS_160F19_Wk12ReadingGuide.pdf
+file: /media/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/1aa21aa46c99884d404632c43c30fce5_MITWGS_160F19_Wk12ReadingGuide.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Readings and Videos
+parent_type: CourseSection
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides, Week 12: Student Activism at MIT'
 uid: 1aa21aa4-6c99-884d-4046-32c43c30fce5
