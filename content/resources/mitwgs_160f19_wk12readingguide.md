@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 015aad82-9b9e-b841-1611-4513152b434e
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides, Week 12: Student Activism at MIT'
 uid: 1aa21aa4-6c99-884d-4046-32c43c30fce5

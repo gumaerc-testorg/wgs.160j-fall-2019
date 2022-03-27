@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 015aad82-9b9e-b841-1611-4513152b434e
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides:, Week 8: The March 4 Movement'
 uid: e9fc6485-e240-743a-edc9-b6ddcf3f91ec

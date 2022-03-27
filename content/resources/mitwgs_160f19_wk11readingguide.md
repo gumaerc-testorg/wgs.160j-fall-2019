@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings and Videos
 parent_type: CourseSection
+parent_uid: 015aad82-9b9e-b841-1611-4513152b434e
 resourcetype: Document
 title: 'WGS.160F19 Reading Guides, Week 11: Intersectional Feminism'
 uid: e9e69449-ec16-70ae-0875-c244e87e81a1
