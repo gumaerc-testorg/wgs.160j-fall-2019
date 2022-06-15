@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a general overview of the course as well as the
+  course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -79,7 +81,7 @@ Final paper (including presenting concept and themes to the class)
 
 {{< tableclose >}}
 
-For detailed information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detailed information on the activities above, see the {{% resource_link c0c989ab-4577-aa33-bc98-c3011cd9424e "Assignments" %}} section.
 
 Required Books
 --------------
@@ -96,7 +98,7 @@ One optional book has material that may be helpful for the final paper:
 
 Schmalzer, Sigrid, Daniel S. Chard, and Alyssa Botelho, eds. _Science for the People: Documents from America’s Movement of Radical Scientists_. University of Massachusetts Press, 2018. ISBN: 9781625343185. 
 
-Some other books are mentioned in the [Readings and Videos]({{< baseurl >}}/pages/readings-and-videos) section.
+Some other books are mentioned in the {{% resource_link 015aad82-9b9e-b841-1611-4513152b434e "Readings and Videos" %}} section.
 
 Calendar
 --------
