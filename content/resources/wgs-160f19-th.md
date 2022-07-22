@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of jfholloway on Flickr. License CC BY-NC-SA.
   image-alt: ' A bronze bust of a woman with strong features and wavy hair.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: WGS-160f19-th.jpg
