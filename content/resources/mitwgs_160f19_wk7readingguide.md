@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/0b7069369ab3683cb5f519aa0cf9eacf_MITWGS_160F19_Wk7ReadingGuide.pdf
+file_size: 201246
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
