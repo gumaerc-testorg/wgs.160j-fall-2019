@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Readings and Videos
 uid: 015aad82-9b9e-b841-1611-4513152b434e
 ---
-\[B\] = ![Buy at MIT Press](/images/mp_logo.gif) Barres, Ben. _The Autobiography of a Transgender Scientist_. MIT Press, 2020. ISBN: 9780262539548. \[Preview with [Google Books](https://www.google.com/books/edition/The_Autobiography_of_a_Transgender_Scien/tYl1DwAAQBAJ?hl=en&gbpv=1&dq=The+Autobiography+of+a+Transgender+Scientist&printsec=frontcover)\]
+\[B\] = ![Buy at MIT Press](/images/mp_logo.gif) Barres, Ben. _The Autobiography of a Transgender Scientist_. MIT Press, 2020. ISBN: 9780262539548. \[Preview with {{% resource_link "a73afe8a-ecb2-4277-8c84-df7e5ac68787" "Google Books" %}}\]
 
 \[BE\] = Beckwith, Jon. _Making Genes, Making Waves: A Social Activist in Science_. Harvard University Press, 2002. ISBN: 9780674009288. 
 
@@ -32,19 +32,19 @@ Science, power, and social responsibility
 
 _Read:_
 
-\[BE\] Chapter 1: The Quail Farmer and the Scientist. \[Preview with [Google Books](https://www.google.com/books/edition/MAKING_GENES_MAKING_WAVES/KwlmBMcW9bcC?hl=en&gbpv=1&dq=Making+Genes,+Making+Waves:+A+Social+Activist+in+Science.&printsec=frontcover)\]
+\[BE\] Chapter 1: The Quail Farmer and the Scientist. \[Preview with {{% resource_link "3351997b-dd3f-48ff-bd3f-454f85ce7e37" "Google Books" %}}\]
 
 \[BE\] Chapter 2: Becoming a Scientist. 
 
-Rotblat, Sir Joseph. “[A Hippocratic Oath for Scientists](https://science.sciencemag.org/content/286/5444/1475).” _Science_ 286, no. 1444: (1995): 1475. (Note: Click on the eLetters tab to read responses.)
+Rotblat, Sir Joseph. “{{% resource_link "cfceae35-8a97-44bd-a5db-9534c4c642d8" "A Hippocratic Oath for Scientists" %}}.” _Science_ 286, no. 1444: (1995): 1475. (Note: Click on the eLetters tab to read responses.)
 
-Bernal, J. D. “Part 1: The Emergence and Character of Science.” In _Science in History, Volume 1: The Emergence of Science_. Faber & Faber, 2010. ISBN: 9780571273003. \[Preview with [Google Books](https://www.google.com/books/edition/Science_in_History/j4K4jBRofNsC?hl=en&gbpv=1&dq=Science+in+History,+Volume+1:+The+Emergence+of+Science&printsec=frontcover)\]
+Bernal, J. D. “Part 1: The Emergence and Character of Science.” In _Science in History, Volume 1: The Emergence of Science_. Faber & Faber, 2010. ISBN: 9780571273003. \[Preview with {{% resource_link "101f9974-1ebc-4bc4-a6a7-eaf2d3585d37" "Google Books" %}}\]
 
-Keller, Evelyn Fox. “Gender and Science: An Update.” In _Women, Science, and Technology: A Reader in Feminist Science Studies_. Edited by Mary Wyer, Mary Barbercheck, Donna Geisman, et al. Routledge, 2001. ISBN: 9780415926072. \[Preview with [Google Books](https://www.google.com/books/edition/Women_Science_and_Technology/T_omcYIJx_8C?hl=en&gbpv=1&dq=Women,+Science,+and+Technology:+A+Reader+in+Feminist+Science+Studies.&printsec=frontcover)\]
+Keller, Evelyn Fox. “Gender and Science: An Update.” In _Women, Science, and Technology: A Reader in Feminist Science Studies_. Edited by Mary Wyer, Mary Barbercheck, Donna Geisman, et al. Routledge, 2001. ISBN: 9780415926072. \[Preview with {{% resource_link "d40337ba-cfe2-4f7b-8739-32556281f525" "Google Books" %}}\]
 
 _Optional background for a possible final paper topic:_
 
-Levins, Richard, and Richard Lewontin. _The Dialectical Biologist._ Harvard University Press, 1987. ISBN: 9780674202832. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dialectical_Biologist/DKK--xiZKeoC?hl=en&gbpv=1&dq=The+Dialectical+Biologist&printsec=frontcover)\]
+Levins, Richard, and Richard Lewontin. _The Dialectical Biologist._ Harvard University Press, 1987. ISBN: 9780674202832. \[Preview with {{% resource_link "944af344-a085-47af-9517-10818595a893" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -60,13 +60,13 @@ Oppenheimer, J. Robert. “War and the Nations.” Chapter 10 in _Atom and Void:
 
 Weisskopf, Victor F. “Forty Years After: Thoughts of a Nuclear Witness.” Chapter 16 in _The Privilege of Being a Physicist_. W.H. Freeman & Co., 1990. ISBN: 9780716721062. 
 
-Gusterson, Hugh. “Becoming a Weapons Scientist.” Chapter 1 in _People of the Bomb: Portraits of America’s Nuclear Complex_. University of Minnesota Press, 2004. ISBN: 9780816638604. \[Preview with [Google Books](https://www.google.com/books/edition/People_of_the_Bomb/iHJRW0GI31MC?hl=en&gbpv=1)\]
+Gusterson, Hugh. “Becoming a Weapons Scientist.” Chapter 1 in _People of the Bomb: Portraits of America’s Nuclear Complex_. University of Minnesota Press, 2004. ISBN: 9780816638604. \[Preview with {{% resource_link "293cddd0-1bd7-4b7f-9a35-a3cc9a1bc63b" "Google Books" %}}\]
 
-———.“[Feminist Militarism](https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/pol.1999.22.2.17).” _PoLAR: Political and Legal Anthropology Review_ 22, no. 2 (1999), 17–26.
+———.“{{% resource_link "90d55b58-1b56-48d9-ba2d-8565a06fb554" "Feminist Militarism" %}}.” _PoLAR: Political and Legal Anthropology Review_ 22, no. 2 (1999), 17–26.
 
 _Optional background for a possible final paper topic:_
 
-Gusterson, Hugh. _People of the Bomb: Portraits of America’s Nuclear Complex_. University of Minnesota Press, 2004. ISBN: 9780816638604. \[Preview with [Google Books](https://www.google.com/books/edition/People_of_the_Bomb/iHJRW0GI31MC?hl=en&gbpv=1)\]
+Gusterson, Hugh. _People of the Bomb: Portraits of America’s Nuclear Complex_. University of Minnesota Press, 2004. ISBN: 9780816638604. \[Preview with {{% resource_link "293cddd0-1bd7-4b7f-9a35-a3cc9a1bc63b" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -78,23 +78,23 @@ _Read:_
 
 \[BE\] Chapter 4: On Which Side Are the Angels?
 
-Wittner, Lawrence S. “[The Nuclear Freeze and Its Impact](https://www.armscontrol.org/act/2010_12/LookingBack).” Arms Control Association. 
+Wittner, Lawrence S. “{{% resource_link "d8e73875-f29e-45a4-b055-9444a373214f" "The Nuclear Freeze and Its Impact" %}}.” Arms Control Association. 
 
-Forsberg, Randall. [“Call to Halt the Nuclear Arms Race.” (PDF)](https://livingwiththebomb.files.wordpress.com/2013/08/call-to-halt-arms-race.pdf)
+Forsberg, Randall. {{% resource_link "db67fac1-79ad-4aa9-8b42-58d3e548b96c" "“Call to Halt the Nuclear Arms Race.” (PDF)" %}}
 
-———. [“The Impact of Activists on Nuclear Disarmament.” (PDF)](https://www.h-net.org/reviews/showpdf.php?id=9328) H-Net Reviews in the Humanities & Social Sciences. May 2004. (Note: This is a review of Lawrence S. Wittner's books _The Struggle Against the Bomb: Volumes 1–3._)
+———. {{% resource_link "43146f0f-88ef-4653-89ef-f272b2c41370" "“The Impact of Activists on Nuclear Disarmament.” (PDF)" %}} H-Net Reviews in the Humanities & Social Sciences. May 2004. (Note: This is a review of Lawrence S. Wittner's books _The Struggle Against the Bomb: Volumes 1–3._)
 
 _Optional background for a possible final paper topic:_
 
-Rhodes, Richard. _The Making of the Atomic Bomb_. Simon & Schuster, 1986. ISBN: 9780671657192. \[Preview with [Google Books](https://www.google.com/books/edition/The_Making_of_the_Atomic_Bomb/aSgFMMNQ6G4C?hl=en&gbpv=1)\]
+Rhodes, Richard. _The Making of the Atomic Bomb_. Simon & Schuster, 1986. ISBN: 9780671657192. \[Preview with {{% resource_link "7d928522-88ad-46dc-8129-906bbf893192" "Google Books" %}}\]
 
 _View:_
 
-“[CNN Crossfire: Helen Caldicott with Tom Braden and Pat Buchanan, Part 1](https://www.youtube.com/watch?v=uANKCuv7xQY).” 1984. YouTube.
+“{{% resource_link "7d40d45d-7bed-4a7c-898d-b12fbff49035" "CNN Crossfire: Helen Caldicott with Tom Braden and Pat Buchanan, Part 1" %}}.” 1984. YouTube.
 
-“[CNN Crossfire: Helen Caldicott with Tom Braden and Pat Buchanan, Part 2](https://www.youtube.com/watch?v=TWCW0ZXQwIA).” 1984. YouTube.
+“{{% resource_link "b4bd8369-27c0-4cfa-b662-7711543b7825" "CNN Crossfire: Helen Caldicott with Tom Braden and Pat Buchanan, Part 2" %}}.” 1984. YouTube.
 
-“[War and Peace in the Nuclear Age; Missile Experimental; Interview with Randall Forsberg, 1987](http://openvault.wgbh.org/catalog/V_F6CC542AF94B434FBC7E1DBE45F07024).” Open Vault from WGBH. 
+“{{% resource_link "b5e9cc62-e16c-45d3-bc3e-b259668404fe" "War and Peace in the Nuclear Age; Missile Experimental; Interview with Randall Forsberg, 1987" %}}.” Open Vault from WGBH. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -106,21 +106,21 @@ _Read:_
 
 \[BE\] Chapter 5: The Tarantella of the Living.
 
-Carson, Rachel. “A Fable for Tomorrow,” “The Obligation to Endure,” and “Elixirs of Death.” Chapters 1–3 in Silent Spring. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](https://www.google.com/books/edition/Silent_Spring/HeR1l0V0r54C?hl=en&gbpv=1)\]
+Carson, Rachel. “A Fable for Tomorrow,” “The Obligation to Endure,” and “Elixirs of Death.” Chapters 1–3 in Silent Spring. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with {{% resource_link "1e30e69f-c881-44f9-953b-d39414c758f4" "Google Books" %}}\]
 
-Norwood, Vera L. [“The Nature of Knowing: Rachel Carson and the American Environment.” (PDF)](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1010&context=amst_fsp) _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 740–60.
+Norwood, Vera L. {{% resource_link "3052154b-9a24-475d-8af3-f03b7b89d2e5" "“The Nature of Knowing: Rachel Carson and the American Environment.” (PDF)" %}} _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 740–60.
 
-Di Chiro, Giovanna. “[Teaching Urban Ecology: Environmental Studies and the Pedagogy of Intersectionality](https://www.jstor.org/stable/40545983?seq=1#metadata_info_tab_contents).” _Feminist Teacher_ 16, no. 2 (2006): 98–109.
+Di Chiro, Giovanna. “{{% resource_link "babf022e-87d9-48a8-95de-da42e6a07e1d" "Teaching Urban Ecology: Environmental Studies and the Pedagogy of Intersectionality" %}}.” _Feminist Teacher_ 16, no. 2 (2006): 98–109.
 
 _Optional background for a possible final paper topic:_
 
-Carson, Rachel. Silent Spring. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](https://www.google.com/books/edition/Silent_Spring/HeR1l0V0r54C?hl=en&gbpv=1)\]
+Carson, Rachel. Silent Spring. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with {{% resource_link "1e30e69f-c881-44f9-953b-d39414c758f4" "Google Books" %}}\]
 
 Krishna, Sumi. _Environmental Politics: People’s Lives and Development Choices_. SAGE Publications, 1996. ISBN: 9780803993136. 
 
 _View:_
 
-“[American Experience: Rachel Carson](https://www.pbs.org/wgbh/americanexperience/films/rachel-carson/).” 2019. PBS.
+“{{% resource_link "71dd57d0-f190-4762-89a8-f96996cd29e4" "American Experience: Rachel Carson" %}}.” 2019. PBS.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -132,19 +132,19 @@ _Read:_
 
 \[BE\] Chapter 6: Does Science Take a Back Seat to Politics?
 
-[“Political Interference with Government Climate Change Science: Testimony of James E. Hansen to Committee on Oversight and Government Reform, United States House of Representatives, March 19, 2007.” (PDF)](http://www.columbia.edu/%7Ejeh1/2007/Testimony_20070319.pdf)
+{{% resource_link "2e51ff67-5d61-4369-a3c0-3577ac8118b7" "“Political Interference with Government Climate Change Science: Testimony of James E. Hansen to Committee on Oversight and Government Reform, United States House of Representatives, March 19, 2007.” (PDF)" %}}
 
-Hoggett, Paul, and Rosemary Randall. “[Engaging with Climate Change: Comparing the Cultures of Science and Activism](https://www.ingentaconnect.com/content/whp/ev/2018/00000027/00000003/art00003;jsessionid=3db6a5femqg0j.x-ic-live-03).” _Environmental Values_ 27, no. 3 (2018): 223–43.
+Hoggett, Paul, and Rosemary Randall. “{{% resource_link "52b4e81f-949c-47ba-a527-746ab491d8a5" "Engaging with Climate Change: Comparing the Cultures of Science and Activism" %}}.” _Environmental Values_ 27, no. 3 (2018): 223–43.
 
-Hadden, Jennifer. [“Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover.” (PDF)](https://muse.jhu.edu/article/545865/pdf) Global _Environmental Politics_ 14, no. 2 (2014): 7–25.
+Hadden, Jennifer. {{% resource_link "63268604-871a-4fe9-a734-d17594da3c19" "“Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover.” (PDF)" %}} Global _Environmental Politics_ 14, no. 2 (2014): 7–25.
 
 _Optional background for a possible final paper topic:_
 
-McAdam, Doug. “[Social Movement Theory and the Prospects for Climate Change Activism in the United States](https://www.annualreviews.org/doi/10.1146/annurev-polisci-052615-025801).” _Annual Review of Political Science_ 20 (2017): 189–208.
+McAdam, Doug. “{{% resource_link "f5eba33c-41e4-454a-bfa8-cf905aa25a32" "Social Movement Theory and the Prospects for Climate Change Activism in the United States" %}}.” _Annual Review of Political Science_ 20 (2017): 189–208.
 
 _View:_
 
-“[TED Talk: James Hansen-Why I Must Speak Out about Climate Change](https://www.ted.com/talks/james_hansen_why_i_must_speak_out_about_climate_change#t-208).” 2012. TED: Ideas Worth Spreading.
+“{{% resource_link "c697e186-aec2-4d03-b750-78f9105d71c8" "TED Talk: James Hansen-Why I Must Speak Out about Climate Change" %}}.” 2012. TED: Ideas Worth Spreading.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -158,7 +158,7 @@ _Read:_
 
 \[J\] Chapter 1: Escape from Berlin. 
 
-\[J\] Chapter 2: “Paradise”. \[Preview with [Google Books](https://www.google.com/books/edition/Einstein_on_Race_and_Racism/4d79VQdOfFUC?hl=en&gbpv=1&dq=Einstein+on+Race+and+Racism&printsec=frontcover)\]
+\[J\] Chapter 2: “Paradise”. \[Preview with {{% resource_link "535147cd-dc1b-4747-a526-cec86ecf619e" "Google Books" %}}\]
 
 \[J\] Chapter 3: The Other Princeton. 
 
@@ -172,17 +172,17 @@ _Read:_
 
 \[J\] Chapter 8: Civil Rights Activist. 
 
-Dreier, Peter. “[Was Albert Einstein a Racist?](https://prospect.org/civil-rights/albert-einstein-racist/)” _The American Prospect_, June 19, 2018.
+Dreier, Peter. “{{% resource_link "e06909ed-0fb2-4e8b-b0dd-651113c78dae" "Was Albert Einstein a Racist?" %}}” _The American Prospect_, June 19, 2018.
 
-King, Martin Luther, Jr. “[The Role of the Behavioral Scientist in the Civil Rights Movement](https://spssi.onlinelibrary.wiley.com/doi/full/10.1111/josi.12265).” _Journal of Social Issues_ 74, no. 2 (2018): 214–23.
+King, Martin Luther, Jr. “{{% resource_link "20b28059-9664-4211-86e6-cfd15d901698" "The Role of the Behavioral Scientist in the Civil Rights Movement" %}}.” _Journal of Social Issues_ 74, no. 2 (2018): 214–23.
 
 _Optional background for a possible final paper topic:_
 
-Nelson, Alondra. _Body and Soul: The Black Panther Party and the Fight against Medical Discrimination_. University Of Minnesota Press, 2013. ISBN: 9780816676491. \[Preview with [Google Books](https://www.google.com/books/edition/Body_and_Soul/QU1cPGBqEcEC?hl=en&gbpv=1&dq=Body+and+Soul:+The+Black+Panther+Party+and+the+Fight+against+Medical+Discrimination&printsec=frontcover)\]
+Nelson, Alondra. _Body and Soul: The Black Panther Party and the Fight against Medical Discrimination_. University Of Minnesota Press, 2013. ISBN: 9780816676491. \[Preview with {{% resource_link "cfea7415-8067-4206-9fcb-488670b179ba" "Google Books" %}}\]
 
-———. _The Social Life of DNA: Race, Reparations, and Reconciliation after the Genome_. Beacon Press, 2016. ISBN: 9780807027189. \[Preview with [Google Books](https://www.google.com/books/edition/The_Social_Life_of_DNA/699hCAAAQBAJ?hl=en&gbpv=1&dq=The+Social+Life+of+DNA:+Race,+Reparations,+and+Reconciliation+after+the+Genome&printsec=frontcover)\]
+———. _The Social Life of DNA: Race, Reparations, and Reconciliation after the Genome_. Beacon Press, 2016. ISBN: 9780807027189. \[Preview with {{% resource_link "46f5678c-cf53-40cb-831e-345496db92cc" "Google Books" %}}\]
 
-Gould, Stephen Jay. _The Mismeasure of Man_. W. W. Norton & Company, 1996. ISBN: 9780393314250. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mismeasure_of_Man_Revised_and_Expand/RTjfmxTpsVsC?hl=en&gbpv=1&dq=The+Mismeasure+of+Man&printsec=frontcover)\]
+Gould, Stephen Jay. _The Mismeasure of Man_. W. W. Norton & Company, 1996. ISBN: 9780393314250. \[Preview with {{% resource_link "40ae57d6-51d1-48a4-bf74-a052110eae5a" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -198,13 +198,13 @@ _Read:_
 
 \[J\] Chapter 11: “My Friend, Doctor Einstein”.
 
-Chomsky, Noah. “[A Special Supplement: The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/).” _NY Review of Books,_ February 23, 1967.
+Chomsky, Noah. “{{% resource_link "e7fc9a5e-b6d3-41a5-a9c3-3d737d3e1a9c" "A Special Supplement: The Responsibility of Intellectuals" %}}.” _NY Review of Books,_ February 23, 1967.
 
-Articles in _The Tech_: [April 14, 1967 (PDF - 5.2MB)](http://tech.mit.edu/V87/PDF/V87-N17.pdf); [March 1, 1968 (PDF - 3.7MB)](https://thetech.com/issues/88/8/pdf); [November 1, 1968 (PDF - 4.4MB)](https://thetech.com/issues/88/41/pdf); [November 8, 1968 (PDF - 5.2MB)](https://thetech.com/issues/88/43/pdf)
+Articles in _The Tech_: {{% resource_link "abd82626-79c8-4f54-8198-e17e89cc6a60" "April 14, 1967 (PDF - 5.2MB)" %}}; {{% resource_link "00a2a009-4edf-450b-bb4a-a02cf697e228" "March 1, 1968 (PDF - 3.7MB)" %}}; {{% resource_link "0931524f-8813-46cd-ad7e-aff157f3e4e1" "November 1, 1968 (PDF - 4.4MB)" %}}; {{% resource_link "2c6e73bc-9ff2-40f8-afc8-8d4ac5a7346b" "November 8, 1968 (PDF - 5.2MB)" %}}
 
-Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the ABM Debate, 1965–1969.” Chapter 5 in _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945–1975_. Princeton University Press, 2013, pp. 130–37, and pp. 146–57. ISBN: 9780691162096. \[Preview with [Google Books](https://www.google.com/books/edition/Disrupting_Science/zmqYDwAAQBAJ?hl=en&gbpv=1&dq=Disrupting+Science:+Social+Movements,+American+scientists,+and+the+Politics+of+the+Military,+1945%E2%80%931975.+Princeton+University+Press&printsec=frontcover)\]
+Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the ABM Debate, 1965–1969.” Chapter 5 in _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945–1975_. Princeton University Press, 2013, pp. 130–37, and pp. 146–57. ISBN: 9780691162096. \[Preview with {{% resource_link "6035ec7d-4172-40d7-8ae8-7ab4933c32fc" "Google Books" %}}\]
 
-Articles in _The Tech_: [September 26, 1969 (PDF - 2.6MB)](https://thetech.com/issues/89/31/pdf); [October 3, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/33/pdf); [October 7, 1969 (PDF - 2.1MB)](https://thetech.com/issues/89/34/pdf); [October 14, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N36.pdf); [October 21, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N38.pdf); [November 4, 1969 (PDF - 4.5MB)](http://tech.mit.edu/V89/PDF/V89-N42.pdf); [November 7, 1969 (PDF - 2MB)](http://tech.mit.edu/V89/PDF/V89-N43.pdf); [December 12, 1969 (PDF - 2.3MB)](http://tech.mit.edu/V89/PDF/V89-N51.pdf); [May 5, 1970 (PDF - 2.8MB)](http://tech.mit.edu/V90/PDF/V90-N23.pdf); [May 18, 1971 (Makowski editorials, pp. 3 and 4)(PDF - 2.1MB)](http://tech.mit.edu/V91/PDF/V91-N27.pdf).
+Articles in _The Tech_: {{% resource_link "174bbff9-6a04-4bdf-b861-3f5452bab50e" "September 26, 1969 (PDF - 2.6MB)" %}}; {{% resource_link "d6498718-5a44-4201-b42e-49bde0b3573c" "October 3, 1969 (PDF - 2.4MB)" %}}; {{% resource_link "8767d556-cbd6-4ebf-b9ec-b08a0d80ad2e" "October 7, 1969 (PDF - 2.1MB)" %}}; {{% resource_link "bb7958c6-a2f8-4cbf-84ac-6bf999cf3120" "October 14, 1969 (PDF - 3.1MB)" %}}; {{% resource_link "853babc9-1d20-4334-b0c9-119fa5aadabb" "October 21, 1969 (PDF - 3.1MB)" %}}; {{% resource_link "f8dddc50-73a1-4422-bb13-816b185f2e9e" "November 4, 1969 (PDF - 4.5MB)" %}}; {{% resource_link "e3f5213e-2c60-4993-b2ed-84af69f289c6" "November 7, 1969 (PDF - 2MB)" %}}; {{% resource_link "63887274-3097-4b17-8f4e-5c38ade86a6a" "December 12, 1969 (PDF - 2.3MB)" %}}; {{% resource_link "e3914464-69f0-4d7f-8cbb-ccb05ce4aac1" "May 5, 1970 (PDF - 2.8MB)" %}}; {{% resource_link "b888008c-4341-4208-81fc-20e6915138df" "May 18, 1971 (Makowski editorials, pp. 3 and 4)(PDF - 2.1MB)" %}}.
 
 _Optional background for a possible final paper topic:_
 
@@ -218,21 +218,21 @@ The March 4 movement, the founding of the Union of Concerned Scientists, and the
 
 _Read:_
 
-Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the ABM Debate, 1965–1969.” Chapter 5 in _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945–1975_. Princeton University Press, 2013, pp. 137–46. ISBN: 9780691162096. \[Preview with [Google Books](https://www.google.com/books/edition/Disrupting_Science/zmqYDwAAQBAJ?hl=en&gbpv=1&dq=Disrupting+Science:+Social+Movements,+American+scientists,+and+the+Politics+of+the+Military,+1945%E2%80%931975.+Princeton+University+Press&printsec=frontcover)\]
+Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the ABM Debate, 1965–1969.” Chapter 5 in _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945–1975_. Princeton University Press, 2013, pp. 137–46. ISBN: 9780691162096. \[Preview with {{% resource_link "6035ec7d-4172-40d7-8ae8-7ab4933c32fc" "Google Books" %}}\]
 
-“[Founding Document: 1968 MIT Faculty Statement](https://www.ucsusa.org/about/history/founding-document-1968-mit-faculty-statement).” Union of Concerned Scientists.
+“{{% resource_link "ece01ae4-18ff-43b4-a3ad-7f7fc705fd84" "Founding Document: 1968 MIT Faculty Statement" %}}.” Union of Concerned Scientists.
 
-Nelson, Bryce. “[M.I.T.’s March 4: Scientists Discuss Renouncing Military Research](https://science.sciencemag.org/content/163/3872/1175).” _Science_ 163, no. 3872 (1969): 1175–78.
+Nelson, Bryce. “{{% resource_link "57cdcfac-2964-4c5b-bc33-9691c2a31c84" "M.I.T.’s March 4: Scientists Discuss Renouncing Military Research" %}}.” _Science_ 163, no. 3872 (1969): 1175–78.
 
-Articles and letters in _The Tech_: [February 25, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/5/pdf); [March 7, 1969 (PDF - 2.4MB)](http://tech.mit.edu/V89/PDF/V89-N8.pdf)
+Articles and letters in _The Tech_: {{% resource_link "2ebf2109-9a11-4526-8c20-24b5d841407e" "February 25, 1969 (PDF - 2.4MB)" %}}; {{% resource_link "beeeb08f-4f47-4286-945f-3be258874db3" "March 7, 1969 (PDF - 2.4MB)" %}}
 
-[“Massachusetts Institute of Technology: Review Panel on Special Laboratories-Final Report.” (PDF - 6.9MB)](http://mitscienceforthepeople.weebly.com/uploads/4/0/9/8/40982869/review_panel_on_speciallaboratories_-_final_report_-_oct_1969.pdf) October 1969. (Read at least pp. 1–26, and pp. 88–106).
+{{% resource_link "969d5c39-9040-4221-bc00-14606787e768" "“Massachusetts Institute of Technology: Review Panel on Special Laboratories-Final Report.” (PDF - 6.9MB)" %}} October 1969. (Read at least pp. 1–26, and pp. 88–106).
 
-Fate of the Instrumentation Lab—articles in _The Tech_: [May 2, 1969 (PDF - 2MB)](https://thetech.com/issues/89/21/pdf); [January 9, 1970 (PDF - 1.8MB)](http://tech.mit.edu/V89/PDF/V89-N54.pdf); [May 22, 1970 (PDF - 3MB)](http://tech.mit.edu/V90/PDF/V90-N28.pdf)(Be sure to read the several articles and letters on pp. 4–5).
+Fate of the Instrumentation Lab—articles in _The Tech_: {{% resource_link "f753d689-3077-425d-b247-bce9a83393ad" "May 2, 1969 (PDF - 2MB)" %}}; {{% resource_link "4fb096b3-a9fa-495d-88d8-237cf4609a59" "January 9, 1970 (PDF - 1.8MB)" %}}; {{% resource_link "1efaea64-5da5-4e9c-9fae-2df5cfa31479" "May 22, 1970 (PDF - 3MB)" %}}(Be sure to read the several articles and letters on pp. 4–5).
 
 _Optional background for a possible final paper topic:_
 
-“[March 4: Scientists, Students, and Society](https://libguides.mit.edu/march4).” MIT Libraries.
+“{{% resource_link "a5ecc2b0-8f4c-4ac2-8376-2407d7835cba" "March 4: Scientists, Students, and Society" %}}.” MIT Libraries.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -252,9 +252,9 @@ _Read:_
 
 \[BE\] Chapter 12: Geneticists and the Two Cultures.
 
-“[Review of the Ethical, Legal and Social Implications Research Program and Related Activities (1990–1995)](https://www.genome.gov/10001747/elsi-program-review-19901995).” National Human Genome Research Institute. 1996.
+“{{% resource_link "1c7f32fb-97e5-4627-ad3d-d0fc4d51cff2" "Review of the Ethical, Legal and Social Implications Research Program and Related Activities (1990–1995)" %}}.” National Human Genome Research Institute. 1996.
 
-Fisher, Erik. “[Lessons Learned from the Ethical, Legal and Social Implications Program (ELSI): Planning Societal Implications Research for the National Nanotechnology Program](https://www.sciencedirect.com/science/article/pii/S0160791X05000278?via%3Dihub).” _Technology in Society_ 27, no. 3 (2005): 321–28.
+Fisher, Erik. “{{% resource_link "c79da72c-b033-4ed0-8efe-3fc7ad78ee5a" "Lessons Learned from the Ethical, Legal and Social Implications Program (ELSI): Planning Societal Implications Research for the National Nanotechnology Program" %}}.” _Technology in Society_ 27, no. 3 (2005): 321–28.
 
 _Optional background for a possible final paper topic:_
 
@@ -262,9 +262,9 @@ _Optional background for a possible final paper topic:_
 
 \[S\] Chapter 4: Biology and Medicine.
 
-Farber, Steven A. “[U.S. Scientists’ Role in the Eugenics Movement (1907–1939): A Contemporary Biologist’s Perspective](https://www.liebertpub.com/doi/10.1089/zeb.2008.0576).” _Zebrafish_ 5, no. 4 (2008): 243–45.
+Farber, Steven A. “{{% resource_link "c05319b1-f776-4e06-90ce-1c18dd49e56c" "U.S. Scientists’ Role in the Eugenics Movement (1907–1939): A Contemporary Biologist’s Perspective" %}}.” _Zebrafish_ 5, no. 4 (2008): 243–45.
 
-Fausto-Sterling, Anne. _Sex /Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with [Google Books](https://www.google.com/books/edition/Sex_gender/BhbJUlZvYwEC?hl=en&gbpv=1&dq=Sex/Gender:+Biology+in+a+Social+World&printsec=frontcover)\]
+Fausto-Sterling, Anne. _Sex /Gender: Biology in a Social World_. Routledge, 2012. ISBN: 9780415881463. \[Preview with {{% resource_link "87f051c7-7181-49d1-9ea0-cbe98e166e65" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -274,23 +274,23 @@ The status of women in science
 
 _Read:_
 
-Hopkins, Nancy. “[A Study on the Status of Women Faculty in Science at MIT](https://aip.scitation.org/doi/abs/10.1063/1.1505288).” _AIP Conference Proceedings_ 628 (2002): 103–6.
+Hopkins, Nancy. “{{% resource_link "4d2e656e-145b-43d9-907f-1cd498c5f34f" "A Study on the Status of Women Faculty in Science at MIT" %}}.” _AIP Conference Proceedings_ 628 (2002): 103–6.
 
-MIT Faculty Newsletter Special Edition: [March 1999 (PDF)](http://web.mit.edu/fnl/women/fnl114x.pdf); [April/May 2002 (PDF)](http://web.mit.edu/fnl/vol/archives/Fnl144.pdf)
+MIT Faculty Newsletter Special Edition: {{% resource_link "a85509ed-ac2f-400d-a18b-c598c8579c19" "March 1999 (PDF)" %}}; {{% resource_link "3fc1c132-e37e-40a0-a7f3-5ed26e62d0f7" "April/May 2002 (PDF)" %}}
 
-Chin, Caroline, and Kamilla Tekiela. [“The Status of Undergraduate Women at MIT.” (PDF - 1.1MB)](https://diversity.mit.edu/sites/default/files/images/Report-Undergrad-Women-full-report.pdf) February 2016.
+Chin, Caroline, and Kamilla Tekiela. {{% resource_link "01e3fc60-5b64-435b-991e-1ea833506ba1" "“The Status of Undergraduate Women at MIT.” (PDF - 1.1MB)" %}} February 2016.
 
-Seron, Carroll, Susan Silbey, Erin Cech, et al. “[‘I Am Not a Feminist, but…’: Hegemony of a Meritocratic Ideology and the Limits of Critique Among Women in Engineering](https://journals.sagepub.com/doi/10.1177/0730888418759774).” _Work and Occupations_ 45, no. 2 (2018): 131–67.
+Seron, Carroll, Susan Silbey, Erin Cech, et al. “{{% resource_link "5f595877-b679-4d89-b807-4981d68c1028" "‘I Am Not a Feminist, but…’: Hegemony of a Meritocratic Ideology and the Limits of Critique Among Women in Engineering" %}}.” _Work and Occupations_ 45, no. 2 (2018): 131–67.
 
 _View:_
 
-“[Women in Science](https://mvp.mit.edu/video/women-in-science/).” MIT Video Productions.
+“{{% resource_link "18ffaac1-b881-473e-ab24-9dc3e4e9634d" "Women in Science" %}}.” MIT Video Productions.
 
-“[Nancy Hopkins on Cold Spring Harbor Laboratory](http://library.cshl.edu/oralhistory/interview/cshl/special-aspects/hopkins-cshl/).” CSH Oral History Collection. 2001.
+“{{% resource_link "0a3d20cb-c054-470e-9453-386cc2ad4ecb" "Nancy Hopkins on Cold Spring Harbor Laboratory" %}}.” CSH Oral History Collection. 2001.
 
 _Optional background for a possible final paper topic:_
 
-Lederman, Muriel, and Ingrid Bartsch, eds. _The Gender and Science Reader_. Routledge, 2000. ISBN: 9780415213585. \[Preview with [Google Books](https://www.google.com/books/edition/The_Gender_and_Science_Reader/9obFtmhcCNsC?hl=en&gbpv=1&dq=The+Gender+and+Science+Reader&printsec=frontcover)\]
+Lederman, Muriel, and Ingrid Bartsch, eds. _The Gender and Science Reader_. Routledge, 2000. ISBN: 9780415213585. \[Preview with {{% resource_link "641d232a-1e86-40d9-a0d2-38a27ccb1259" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -300,15 +300,15 @@ Intersectional feminism
 
 _Read:_
 
-\[B\] Life. \[Preview with [Google Books](https://www.google.com/books/edition/The_Autobiography_of_a_Transgender_Scien/tYl1DwAAQBAJ?hl=en&gbpv=1&dq=The+Autobiography+of+a+Transgender+Scientist&printsec=frontcover)\]
+\[B\] Life. \[Preview with {{% resource_link "a73afe8a-ecb2-4277-8c84-df7e5ac68787" "Google Books" %}}\]
 
-Prescod-Weinstein, Chanda. “[Intersectionality as a Blueprint for Postcolonial Scientific Community Building](https://medium.com/@chanda/intersectionality-as-a-blueprint-for-postcolonial-scientific-community-building-7e795d09225a#.lmvrsh7su).” January 24, 2016. Medium.
+Prescod-Weinstein, Chanda. “{{% resource_link "5850707d-0aa5-4389-9898-4afa6fa5c54d" "Intersectionality as a Blueprint for Postcolonial Scientific Community Building" %}}.” January 24, 2016. Medium.
 
-Roberts, Dorothy, and Sujatha Jesudason. “[Movement Intersectionality: The Case of Race, Gender, Disability, and Genetic Technologies](https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/movement-intersectionality/9312A198A36DCCAE07DC548D84EB1679).” _DuBois Review_ 10, no. 2 (2013): 313–28.
+Roberts, Dorothy, and Sujatha Jesudason. “{{% resource_link "3c9c52b6-6803-4dd0-9b80-7b035e953313" "Movement Intersectionality: The Case of Race, Gender, Disability, and Genetic Technologies" %}}.” _DuBois Review_ 10, no. 2 (2013): 313–28.
 
 _Optional background for a possible final paper topic:_
 
-Prescod-Weinstein, Chanda. “[Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.egg56n259).” April 25, 2015. Medium.
+Prescod-Weinstein, Chanda. “{{% resource_link "e34dc9b5-bb4e-451d-91b7-e9b51f808b73" "Decolonising Science Reading List" %}}.” April 25, 2015. Medium.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -322,16 +322,16 @@ _Read:_
 
 \[BE\] Chapter 13: The Scientist and the Quail Farmer.
 
-Context for MIT anti-apartheid activism: [“Polaroid Revolutionary Workers Movement” (PDF - 2.4MB)](http://kora.matrix.msu.edu/files/50/304/32-130-1F8-84-african_activist_archive-a0a8g4-b_12419.pdf); Articles in _The Tech_: [May 2, 1978 (PDF - 4.2MB)](http://tech.mit.edu/V98/PDF/V98-N21.pdf); [March 1, 1985](http://tech.mit.edu/V105/N7/kruger.07n.html); [April 9, 1985 (PDF - 3.4MB)](http://tech.mit.edu/V105/PDF/V105-N16.pdf) (Harvard and Columbia protests); [April 19, 1985 (PDF - 3.3MB)](http://tech.mit.edu/V105/PDF/V105-N18.pdf) (letter on p. 6); [April 30, 1985](http://tech.mit.edu/V105/N21/feld.21o.html) (Tufts and Cornell protests).
+Context for MIT anti-apartheid activism: {{% resource_link "1ae8fca7-9681-41f5-aca8-f62685500d04" "“Polaroid Revolutionary Workers Movement” (PDF - 2.4MB)" %}}; Articles in _The Tech_: {{% resource_link "a8a11d52-c06d-41cb-8103-d5214284bc41" "May 2, 1978 (PDF - 4.2MB)" %}}; {{% resource_link "22422479-38fc-4639-b2e8-7f6f3f8c0f82" "March 1, 1985" %}}; {{% resource_link "ac6a4a33-db24-4375-a2f4-0e532b322ff7" "April 9, 1985 (PDF - 3.4MB)" %}} (Harvard and Columbia protests); {{% resource_link "999d304c-cff6-48c0-ae9c-20f17e99f960" "April 19, 1985 (PDF - 3.3MB)" %}} (letter on p. 6); {{% resource_link "56b1c761-f449-467e-867c-69fddfdf3a78" "April 30, 1985" %}} (Tufts and Cornell protests).
 
-Anti-apartheid protests covered by _The Tech_: [June 3, 1985](http://tech.mit.edu/V105/N26/apart.26o.html); [November 8, 1985 (PDF - 3.7MB)](http://tech.mit.edu/V105/PDF/V105-N48.pdf); [November 15, 1985 (PDF - 5.4MB)](http://tech.mit.edu/V105/PDF/V105-N49.pdf); [January 8, 1986 (PDF - 2.7MB)](http://tech.mit.edu/V105/PDF/V105-N56.pdf); [March 11, 1986 (PDF - 6.4MB)](http://tech.mit.edu/V106/PDF/V106-N10.pdf).
+Anti-apartheid protests covered by _The Tech_: {{% resource_link "1955b578-6357-4bcd-b0bc-5002b72f6dfb" "June 3, 1985" %}}; {{% resource_link "d7224e7b-02fe-43ec-95be-9e7a9cfd778b" "November 8, 1985 (PDF - 3.7MB)" %}}; {{% resource_link "bd881630-88e3-4c3e-8673-a186ea9253b3" "November 15, 1985 (PDF - 5.4MB)" %}}; {{% resource_link "3feb0d77-4947-4709-a00e-5f5b2c919164" "January 8, 1986 (PDF - 2.7MB)" %}}; {{% resource_link "28504b76-f6f4-4237-978d-5a796d60c836" "March 11, 1986 (PDF - 6.4MB)" %}}.
 
-More articles in _The Tech_: [March 4, 1986 (PDF - 3.4MB)](http://tech.mit.edu/V106/PDF/V106-N8.pdf); [March 15, 1986 (PDF)](http://tech.mit.edu/V106/PDF/V106-N12.pdf); [October 7, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N42.pdf); [October 21, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N45.pdf) (the letter by MIT President Paul Gray); [March 6, 1990](http://tech.mit.edu/V110/N10/apart.10n.html); [April 10, 1990 (PDF - 5.7MB)](http://tech.mit.edu/V110/PDF/V110-N18.pdf) (long); [April 13, 1990 (PDF - 3.2MB)](http://tech.mit.edu/V110/PDF/V110-N19.pdf) (see the letters).
+More articles in _The Tech_: {{% resource_link "e3e9e5de-822a-4cb9-91b6-95658362d6da" "March 4, 1986 (PDF - 3.4MB)" %}}; {{% resource_link "135367e4-bd1f-4cb3-a104-fc943120c8d5" "March 15, 1986 (PDF)" %}}; {{% resource_link "0e066448-387a-4b46-bfed-39cc4e70dd68" "October 7, 1986 (PDF - 4.7MB)" %}}; {{% resource_link "463d3047-b9c3-4068-a094-53454d0908d5" "October 21, 1986 (PDF - 4.7MB)" %}} (the letter by MIT President Paul Gray); {{% resource_link "c5fc6cc1-dcc1-40cf-9155-048cbe89b473" "March 6, 1990" %}}; {{% resource_link "9fdeaa8a-c543-4dce-a8ff-dcc62c437c10" "April 10, 1990 (PDF - 5.7MB)" %}} (long); {{% resource_link "8d884fd3-90b0-4189-8a81-ceec443e4fe4" "April 13, 1990 (PDF - 3.2MB)" %}} (see the letters).
 
-Still more: [April 24, 1990 (PDF - 5.2MB)](http://tech.mit.edu/V110/PDF/V110-N21.pdf); [June 4, 1990](http://tech.mit.edu/V110/N28/cod.28n.html); [May 4, 1990](http://tech.mit.edu/V110/N24/colloq.24n.html); [September 28, 1990](http://tech.mit.edu/V110/N38/penn.38o.html); [November 9, 1990](http://tech.mit.edu/V110/N49/manteu.49o.html); [May 2, 1991](http://tech.mit.edu/V111/N24/awards.24n.html).
+Still more: {{% resource_link "bcb3eab7-23ec-47ea-9aee-3208035a122a" "April 24, 1990 (PDF - 5.2MB)" %}}; {{% resource_link "100dbb11-893b-4600-a499-de12c292c394" "June 4, 1990" %}}; {{% resource_link "ba86857a-bf42-4f5f-a1fe-02b48918b434" "May 4, 1990" %}}; {{% resource_link "f0348a05-975c-48b2-8ea9-0bb03533cf2f" "September 28, 1990" %}}; {{% resource_link "4d14ebc3-19c9-4c77-912c-cadbcd2fb7f4" "November 9, 1990" %}}; {{% resource_link "07c9363b-11bf-4e3c-af8e-86ba7e347ce1" "May 2, 1991" %}}.
 
-Soule, Sarah A. “[The Student Divestment Movement in the United States and Tactical Diffusion: The Shantytown Protest](https://www.jstor.org/stable/2580522?origin=crossref&seq=1#metadata_info_tab_contents).” _Social Forces_ 75, no. 3 (1997): 855–82.
+Soule, Sarah A. “{{% resource_link "fbb97309-a8ac-4861-9061-264b672b9a59" "The Student Divestment Movement in the United States and Tactical Diffusion: The Shantytown Protest" %}}.” _Social Forces_ 75, no. 3 (1997): 855–82.
 
-Auguste, Rasheed. “[Reflections of a BSU Co-Chair: A Voyage Toward Diversity and Inclusion at MIT](https://medium.com/bamit-review/reflections-of-a-bsu-co-chair-bf1a77dfd93b).” July 28, 2016. Medium.
+Auguste, Rasheed. “{{% resource_link "95ba845d-f843-494c-bbe7-e33aa673eff4" "Reflections of a BSU Co-Chair: A Voyage Toward Diversity and Inclusion at MIT" %}}.” July 28, 2016. Medium.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
