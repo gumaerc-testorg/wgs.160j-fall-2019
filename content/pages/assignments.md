@@ -22,11 +22,11 @@ The final paper must be between 4000 and 5000 words and should either address in
 
 Sample topics include:
 
-*   An analysis of Soviet nuclear physicist Andrei Sakharov’s 1968 article “{{% resource_link "fb924458-6200-44ca-a044-ac9ad00d16a0" "Reflections on Progress, Peaceful Coexistence, and Intellectual Freedom" %}}”
-*   The 2017 {{% resource_link "27adc291-5b0b-43f9-860b-f92aafc4ec93" "March for Science" %}}
+*   An analysis of Soviet nuclear physicist Andrei Sakharov’s 1968 article “[Reflections on Progress, Peaceful Coexistence, and Intellectual Freedom](https://www.sakharov-center.ru/asfconf2009/english/node/20)”
+*   The 2017 [March for Science](https://marchforscience.org/)
 *   Examples of science activism from MIT
 
-For some topics, the {{% resource_link "2849c504-73f4-4831-9f5a-934e0d407acb" "MIT Archives" %}} and the {{% resource_link "5cdbc074-39eb-4f16-8661-556095143bb0" "MIT Museum" %}} will provide useful material not found elsewhere.
+For some topics, the [MIT Archives](https://archivesspace.mit.edu/) and the [MIT Museum](http://mitmuseum.mit.edu/) will provide useful material not found elsewhere.
 
 The final paper should include an introduction, literature review, description of the case study, analysis, and conclusions. Each student will prepare a 15-minute presentation of the idea for this paper in weeks 7 through 9 before the paper is due during week 12 and will participate in the discussion of other students’ ideas.
 
