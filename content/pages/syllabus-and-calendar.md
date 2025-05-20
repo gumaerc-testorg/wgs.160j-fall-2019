@@ -120,7 +120,7 @@ The March 4 movement, the founding of the Union of Concerned Scientists, and the
 
 *Student summaries of final paper concepts*
 
-*Guest speakers: Dr. Aron M. Bernstein, MIT Department of Physics, and* [*Heather Nan Lechtman*](https://dmse.mit.edu/faculty/heather-nan-lechtman/)*, MIT Department of Materials Science and Engineering*
+*Guest speakers: Dr. Aron M. Bernstein, MIT Department of Physics, and* [*Heather Nan Lechtman*](https://dmse.mit.edu/people/faculty/heather-nan-lechtman/)*, MIT Department of Materials Science and Engineering*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
