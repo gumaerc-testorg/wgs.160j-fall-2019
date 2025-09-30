@@ -58,11 +58,11 @@ For detailed information on the activities above, see the {{% resource_link "c0c
 
 The class will use three books and a variety of articles. You should obtain these three books:
 
-Beckwith, Jon. *Making Genes, Making Waves: A Social Activist in Science*. Harvard University Press, 2002. ISBN: 9780674009288. \[Preview with [Google Books](https://www.google.com/books/edition/MAKING_GENES_MAKING_WAVES/KwlmBMcW9bcC?hl=en&gbpv=1&dq=Making+Genes,+Making+Waves:+A+Social+Activist+in+Science.&printsec=frontcover)\]
+Beckwith, Jon. *Making Genes, Making Waves: A Social Activist in Science*. Harvard University Press, 2002. ISBN: 9780674009288. \[Preview with {{% resource_link "3c9f47e7-1742-45ca-a5fb-8ecf54778da5" "Google Books" %}}\]
 
-Jerome, Fred, and Rodger Taylor. *Einstein on Race and Racism*. Rutgers University Press, 2006. ISBN: 9780813539522. \[Preview with [Google Books](https://www.google.com/books/edition/Einstein_on_Race_and_Racism/4d79VQdOfFUC?hl=en&gbpv=1&dq=Einstein+on+Race+and+Racism&printsec=frontcover)\]
+Jerome, Fred, and Rodger Taylor. *Einstein on Race and Racism*. Rutgers University Press, 2006. ISBN: 9780813539522. \[Preview with {{% resource_link "3e6fc04a-9e7a-46c0-9c2c-ce297116e902" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262539548) Barres, Ben. *The Autobiography of a Transgender Scientist*. MIT Press, 2020. ISBN: 9780262539548. \[Preview with [Google Books](https://www.google.com/books/edition/The_Autobiography_of_a_Transgender_Scien/tYl1DwAAQBAJ?hl=en&gbpv=1&dq=The+Autobiography+of+a+Transgender+Scientist&printsec=frontcover)\]
+{{% resource_link "007db2fb-cd50-4e8b-82ed-a81e3ffbebb2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Barres, Ben. *The Autobiography of a Transgender Scientist*. MIT Press, 2020. ISBN: 9780262539548. \[Preview with {{% resource_link "f684b91a-4565-493a-816f-0eb63d737c5d" "Google Books" %}}\]
 
 One optional book has material that may be helpful for the final paper:
 
@@ -120,7 +120,7 @@ The March 4 movement, the founding of the Union of Concerned Scientists, and the
 
 *Student summaries of final paper concepts*
 
-*Guest speakers: Dr. Aron M. Bernstein, MIT Department of Physics, and* [*Heather Nan Lechtman*](https://dmse.mit.edu/people/faculty/heather-nan-lechtman/)*, MIT Department of Materials Science and Engineering*
+*Guest speakers: Dr. Aron M. Bernstein, MIT Department of Physics, and* {{% resource_link "7fc2b778-1ee9-45d5-b2c3-2412a4d89c2e" "*Heather Nan Lechtman*" %}}*, MIT Department of Materials Science and Engineering*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -130,7 +130,7 @@ Concerns about genetic engineering
 
 *Student summaries of final paper concepts*
 
-*Guest speaker:* [*Dr. Jon Beckwith*](http://beckwith.med.harvard.edu/people/jonb.htm)*, Harvard Medical School, Department of Microbiology and Immunobiology*
+*Guest speaker:* {{% resource_link "bdee2795-d147-43bf-8bf8-24a43a22d857" "*Dr. Jon Beckwith*" %}}*, Harvard Medical School, Department of Microbiology and Immunobiology*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Midterm exam
@@ -140,7 +140,7 @@ Midterm exam
 
 The status of women in science
 
-*Guest speaker:* [*Dr. Nancy Hopkins*](https://biology.mit.edu/profile/nancy-hopkins/)*, MIT Department of Biology*
+*Guest speaker:* {{% resource_link "1dc102a7-4ace-41d7-8e81-5d1bc00b6351" "*Dr. Nancy Hopkins*" %}}*, MIT Department of Biology*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
