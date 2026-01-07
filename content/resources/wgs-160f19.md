@@ -7,8 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "A bronze bust of Rachel Carson. Carson\u2019s book _Silent Spring_ alerted\
     \ the public to the dangers of chemical pesticides and launched the environmental\
-    \ movement. (Image courtesy of {{% resource_link \"fec342c9-8e74-4c03-832f-14088ca959ac\"\
-    \ \"jfholloway\" %}} on Flickr. License CC BY-NC-SA.)"
+    \ movement. (Image courtesy of [jfholloway](https://www.flickr.com/photos/jfholloway/1218257315/in/photolist-2RDTst-eVo9LS-VWPidh-VAGX3Y-VZWh3Z-VZppjV-W18WJp-VZpn1M-VAGUyj-eVbLeM-eVbLGV-eVo9Ub-VWPi3C-UXqvsg-eVbJUV-UXqxKH-eVbMbF-2gkrrxr-2gkrVfX-UYbuoe-UYbtoP-W18Q3i-eVoae9-eVbJNa-eVo9s7-eVoapo-eVo9jY-eVo9c3-VWPhsj-UXqxdv-WbUAMK-WbUzox-UXqwnT-2gkrqz9-eVobrd-2gkrSsN-eVbM3a-eVo95j-eVbK4i-eVobhC-eVoaJ1-eY1U4M-eY1Tje-UXqxwg-eYdkoW-eVbMiR-2gkrpkA-eY1PnK-VAGVxJ-eYddFf)\
+    \ on Flickr. License CC BY-NC-SA.)"
   credit: Image courtesy of jfholloway on Flickr. License CC BY-NC-SA.
   image-alt: ' A bronze bust of a woman with strong features and wavy hair.'
 learning_resource_types: []
